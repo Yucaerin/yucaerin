@@ -1,16 +1,58 @@
-## Hi there 👋
+# 🌸 Hi, I'm Yucaerin! (≧◡≦) ♡
 
-<!--
-**Yucaerin/yucaerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Just a wandering code sorceress traveling between Git commits and ramen shops.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👘 About Me
+
+- 🍥 I love anime, open source, and midnight debugging
+- 🍡 Fueled by ramen and merge conflicts
+- 💬 Favorite phrase: `git commit -m "yabai"`
+- 💬 I enjoy learning about the CVE under discussion.
+
+---
+
+## ✨ Tech Affinities
+
+| Skill            | Level         |
+|------------------|---------------|
+| Laravel no Jutsu | 🔥🔥🔥🔥         |
+| JavaScript Magic | 🔥               |
+| Python Alchemy   | 🔥🔥            |
+| Deploy Kekkai    | 💀 (still learning)
+
+---
+
+## 💖 Current Mood
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
+
+---
+
+## 🧙‍♀️ Favorite Quotes
+
+> “Love is but a glitch in the neural circuits of our minds.”  
+> — ryuunosuke akasaka
+
+---
+
+## 🎀 Status Badges
+
+![Anime](https://img.shields.io/badge/Status-Otaku%20Mode%20On-pink)
+![Waifu](https://img.shields.io/badge/Favorite%20Waifu-Shiina-orange)
+![Code](https://img.shields.io/badge/Magic-Laravel%20%F0%9F%94%A5-red)
+
+---
+
+## 🧩 Fun Facts
+
+- I hate my self
+- I hate my self
+- I hate my self
+
+---
+
+## 📢 Disclaimer
+
+This profile is powered by pure chaos energy and a little bit of `coffee + caff mocha`.

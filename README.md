@@ -39,14 +39,6 @@
 
 ---
 
-## 🎀 Status Badges
-
-![Anime](https://img.shields.io/badge/Status-Otaku%20Mode%20On-pink)
-![Waifu](https://img.shields.io/badge/Favorite%20Waifu-Shiina-orange)
-![Code](https://img.shields.io/badge/Magic-Laravel%20%F0%9F%94%A5-red)
-
----
-
 ## 🧩 Fun Facts
 
 - I hate my self

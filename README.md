@@ -10,6 +10,8 @@
 - 🍡 Fueled by ramen and merge conflicts
 - 💬 Favorite phrase: `git commit -m "yabai"`
 - 💬 I enjoy learning about the CVE under discussion.
+- 🧑‍🎓 I'm still learning PHP and Python
+- 📫 Contact me : yucaerin[AT]hotmail.com
 
 ---
 

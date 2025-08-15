@@ -11,7 +11,7 @@
 - 💤 Professional sleeper & daydreamer
 - 💬 Favorite phrase: `git commit -m "yabai"`
 - 🗨️ I love diving into trending CVEs and bug-hunting
-- 🐧 Still deepening my Python skills, but Bash and JS are my comfort zone
+- 🐧 Still deepening my Python and JS skills, but Bash and PHP are my comfort zone
 - 📫 Reach me on Email: yucaerin[AT]hotmail.com
 
 ---

@@ -1,28 +1,29 @@
 # 🌸 Hi, I'm Yucaerin! (≧◡≦) ♡
 
-> Just a wandering code sorceress traveling between Git commits and ramen shops.  
+> Just a wandering code sorceress traveling between Git commits and ramen shops.
 
 ---
 
 ## 👘 About Me
 
-- 🍥 I love anime, open source, and midnight debugging
-- 🍡 Fueled by ramen and merge conflicts
+- 🎏 Freelancer who codes after midnight
+- 🥢 Anime, manga, games, and late-night coffee addict
+- 💤 Professional sleeper & daydreamer
 - 💬 Favorite phrase: `git commit -m "yabai"`
-- 💬 I enjoy learning about the CVE under discussion.
-- 🧑‍🎓 I'm still learning PHP and Python
-- 📫 Contact me : yucaerin[AT]hotmail.com
+- 🗨️ I love diving into trending CVEs and bug-hunting
+- 🐧 Still deepening my Python skills, but Bash and JS are my comfort zone
+- 📫 Reach me on Email: yucaerin[AT]hotmail.com
 
 ---
 
 ## ✨ Tech Affinities
 
-| Skill            | Level         |
-|------------------|---------------|
-| Laravel no Jutsu | 🔥🔥🔥🔥         |
-| JavaScript Magic | 🔥               |
-| Python Alchemy   | 🔥🔥            |
-| Deploy Kekkai    | 💀 (still learning)
+| Skill                | Level         |
+|----------------------|--------------|
+| Bash Sorcery         | 🔥🔥          |
+| JavaScript Magic     | 🔥🔥          |
+| Python Alchemy       | 🔥🔥           |
+| Deploy Kekkai        | 💀 (still learning)
 
 ---
 
@@ -41,11 +42,15 @@
 
 ## 🧩 Fun Facts
 
-- I hate my self
-- I hate my self
-- I hate my self
+- I love daydreaming way too much
+- CVE discussions are my midnight snacks
+- I survive on manga, anime, and (way too much) night coffee
 
 ---
+
+## My GitHub Stats and Top Languages
+![Yucaerin's github stats](https://github-readme-stats.vercel.app/api?username=yucaerin&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yucaerin&layout=donut&theme=tokyonight&show_icons=true)
+
 
 ## 📢 Disclaimer
 
